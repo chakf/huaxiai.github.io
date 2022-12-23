@@ -1,2 +1,0 @@
-# huaxiai.github.io
-huaxiai
